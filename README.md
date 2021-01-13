@@ -3,7 +3,7 @@
 ### My name is George Papangelis 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=gpapangelis.gpapangelis)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gpapangelis&show_icons=true&theme=tokyonight)
+<!--  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gpapangelis&show_icons=true&theme=tokyonight) -->
 
 
 
