@@ -2,6 +2,9 @@
 
 ### My name is George Papangelis 
 
+![](https://visitor-badge.laobi.icu/badge?page_id=gpapangelis.gpapangelis)
+
+
 <!--
 **gpapangelis/gpapangelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
