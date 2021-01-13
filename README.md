@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### My name is George Papangelis 
+### Hi there 👋! My name is George Papangelis.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpapangelis&theme=tokyonight)
 
