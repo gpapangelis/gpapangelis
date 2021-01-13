@@ -1,5 +1,6 @@
 ### Hi there 👋! My name is George Papangelis.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpapangelis&theme=tokyonight)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=gpapangelis.gpapangelis)
